@@ -13,36 +13,23 @@ Obsidian notes are organized within vaults, which can be thought of as root fold
 
 This vault is the result of a review of over 900 community plugins. From this search, approximately 40 were selected to ensure a balance of core functionality and a minimalist design. The result is a system that's not only highly functional but also sleek and user-friendly.
 
-# 🔥Features
-### Installation and Setup
-- Detailed instructions on how to install and configure the vault.
-- Guidance on customizing the vault to suit individual needs.
-### Usage
-- Examples and templates for day-to-day task management.
-- Strategies for long-term project planning and personal development.
-### GTD Integration
-- Seamlessly incorporate GTD principles into your daily workflow.
-- Organized structure for managing tasks, projects, and notes.
-
-### Functional Simplicity
-- Focus on utility and efficiency, avoiding unnecessary complexities.
-- Minimalist design for a clutter-free and focused working environment.
-
-### Community Plugin Insights
-- Curated selection of the most effective plugins for enhancing the Obsidian experience.
-- Detailed insights and usage tips for each integrated plugin.
-
-### Comprehensive Documentation
-- Step-by-step guides for setting up and using the vault.
-- Best practices and tips for personal and professional productivity.
-
-
-
-
-
+# 🔥 Features
+## Vault Setup and Customization
+- **In-depth Documentation:** Comprehensive reviews of all settings, offering a thorough understanding of Obsidian's capabilities.
+- **Customization Guidance:** Step-by-step instructions on tailoring the vault with community plugins to meet individual needs.
+- **Plugin Curation:** A handpicked selection of highly effective plugins to enhance the Obsidian experience, complete with detailed insights and practical usage tips.
+## Functionally Simple Template
+- **Efficiency and Utility:** A design that emphasizes functionality, steering clear of unnecessary complexities for a streamlined experience.
+- **Minimalist Aesthetic:** A clean and uncluttered interface that facilitates a focused and productive working environment.
+## GTD Integration
+- **Seamless GTD Adoption:** Integrate GTD principles effortlessly into your daily workflow for better task and project management.
+- **Structured Organization:** A well-organized system for managing tasks, projects, and notes, aligning with GTD methodology.
+## Usage
+- **Practical Examples:** Ready-to-use templates and examples for managing daily tasks effectively.
+- **Strategic Planning:** Tools and strategies for long-term project planning and personal development, ensuring a holistic approach to productivity.
 
 # ✍🏼 Author's Note
-Hi, I'm Francisco Monroy, and this vault is a significant part of my transition from pursuing a Ph.D. In preparation for dropping out of a structured academic program (in June 2024) has led me to create a system that supports the complexity my day-to-day tasks and long-term goals.
+Hi, I'm Francisco Monroy, and this vault is a significant part of my transition from pursuing a Ph.D. In preparation for dropping out (in June 2024) of a structured academic program, I wanted to create a system that supports the complexity my long-term goals while managing day-to-day tasks.
 
 This project is not just a tool I use personally, but also a means to connect with and support others on similar journeys. I hope this vault provides as much value to you as it has to me.
 
