@@ -23,7 +23,7 @@ This vault is the result of a review of over 900 community plugins. From this se
 ## Functionally Simple Template
 - **Efficiency and Utility:** A design that emphasizes functionality, steering clear of unnecessary complexities for a streamlined experience.
 - **Minimalist Aesthetic:** A clean and uncluttered interface that facilitates a focused and productive working environment.
-<img src="./images/Screenshot 2023-12-31 at 2.02.54 AM.png"/>
+<img src="./images/Screenshot 2023-12-31 at 2.02.54 AM.png" width="200"/>
 
 ## GTD Integration
 - **Seamless GTD Adoption:** Integrate GTD principles effortlessly into your daily workflow for better task and project management.
