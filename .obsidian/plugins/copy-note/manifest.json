@@ -1,0 +1,10 @@
+{
+	"id": "copy-note",
+	"name": "Enhance Copy Note",
+	"version": "0.2.1",
+	"minAppVersion": "0.9.12",
+	"description": "Augments native Obsidian note copying.",
+	"author": "kzhovn",
+	"authorUrl": "https://github.com/kzhovn",
+	"isDesktopOnly": false
+}

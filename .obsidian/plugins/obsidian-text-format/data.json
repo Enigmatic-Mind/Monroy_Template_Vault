@@ -1,0 +1,25 @@
+{
+  "MergeParagraph_Newlines": true,
+  "MergeParagraph_Spaces": true,
+  "LowercaseFirst": true,
+  "RemoveBlanksWhenChinese": false,
+  "ZoteroNoteRegExp": "",
+  "ZoteroNoteTemplate": "",
+  "BulletPoints": "•–§",
+  "wrapperList": [
+    {
+      "name": "",
+      "prefix": "",
+      "suffix": ""
+    }
+  ],
+  "RequestURL": "",
+  "ToggleSequence": "lowerCase\nupperCase\ncapitalizeSentence\ntitleCase",
+  "RemoveWikiURL2": false,
+  "WikiLinkFormat": {
+    "headingOnly": "{title} (> {heading})",
+    "aliasOnly": "{alias} ({title})",
+    "both": "{alias} ({title} > {heading})"
+  },
+  "UrlLinkFormat": "{text}"
+}

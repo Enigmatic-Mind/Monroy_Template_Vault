@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "showLineNumber": true,
+  "focusNewTab": false,
+  "strictLineBreaks": true,
+  "spellcheck": false,
+  "attachmentFolderPath": "./images",
+  "showInlineTitle": true,
+  "readableLineLength": true
+}

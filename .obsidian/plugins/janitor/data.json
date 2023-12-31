@@ -1,0 +1,17 @@
+{
+  "runAtStartup": false,
+  "addRibbonIcon": true,
+  "promptUser": true,
+  "promptForBigFiles": true,
+  "attachmentsExtensions": ".jpg|.jpeg|.png|.gif|.svg|.pdf",
+  "defaultOperation": "trash",
+  "expiredAttribute": "expires",
+  "expiredDateFormat": "YYYY-MM-DD",
+  "sizeLimitKb": 1024,
+  "processOrphans": true,
+  "processEmpty": true,
+  "processExpired": false,
+  "processBig": false,
+  "honorObsidianExcludedFiles": true,
+  "excludedFilesFilters": []
+}

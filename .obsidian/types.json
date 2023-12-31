@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "added": "date",
+    "review": "date",
+    "skills & resources": "text",
+    "Ver": "number"
+  }
+}

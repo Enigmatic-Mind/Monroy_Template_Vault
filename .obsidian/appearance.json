@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "theme"
+  ],
+  "baseFontSize": 14,
+  "theme": "obsidian",
+  "interfaceFontFamily": "Arial",
+  "textFontFamily": "Arial",
+  "monospaceFontFamily": "Arial",
+  "showViewHeader": true,
+  "translucency": true
+}

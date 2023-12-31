@@ -1,0 +1,7 @@
+- [ ] Hello, this is some [metadata:: value]!
+- [X] I finished this on [completion:: 2021-08-15].
+- [ ]  Due this Saturday 🗓️2021-08-29
+- [x]  Completed last Saturday ✅2021-08-22
+- [ ]  I made this on ➕1990-06-14
+- [ ]  Task I can start this weekend 🛫2021-08-29
+- [x]  Task I finished ahead of schedule ⏳2021-08-29 ✅2021-08-22

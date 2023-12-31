@@ -1,0 +1,13 @@
+- _Confirm file deletion_: `Off ❌`
+- _Deleted files_: `Move to system trash`
+- _Automatically update internal links_: `On ✅`
+    - Update links leading to the renamed file.
+- _Default location for new notes_: `Vault folder`
+- _New link format_: `Shortest path when possible`
+- _Use wikilinks_: `On ✅`
+    - Create note links with `[[File_Name | Link_name]]` in addition to `[Link_name](File_name.md)`.
+- _Delete all file extensions_: `Off ❌`
+- _Default location for new attachments_: `In subfolder under current folder`
+    - Add images and other inserted content into a specified subfolder.
+- _Excluded files_: `NA`
+    - Files to exclude from search and other things.

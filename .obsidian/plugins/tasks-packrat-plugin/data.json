@@ -1,0 +1,6 @@
+{
+  "deletion_trigger": "#pr1",
+  "bottom_trigger": "#pr2",
+  "archive_trigger": "%%done_log%%",
+  "archive_filepath": "archive.md"
+}

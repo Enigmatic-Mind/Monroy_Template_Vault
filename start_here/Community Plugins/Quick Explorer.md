@@ -1,0 +1,2 @@
+Quick explore files in vault using the path at the top of a file or at the bottom left of the status bar. Note, the files can be navigated with the arrow keys!
+![[Screenshot 2023-12-29 at 9.26.26 PM.png|328]]

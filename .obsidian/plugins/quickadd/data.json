@@ -1,0 +1,68 @@
+{
+  "choices": [
+    {
+      "id": "aaa895d8-b345-486d-a117-c8b090329283",
+      "name": "create_yearly_folder",
+      "type": "Macro",
+      "command": true,
+      "macroId": "6148aa71-e09a-48a0-930f-7d81850cd00d"
+    },
+    {
+      "id": "146096dc-4fe5-4986-b3fd-9c4c9e42bf11",
+      "name": "create_weekly_notes",
+      "type": "Macro",
+      "command": true,
+      "macroId": "71209781-a5bb-43a3-bbbb-29be3c7a0407"
+    }
+  ],
+  "macros": [
+    {
+      "name": "create_yearly_folder",
+      "id": "6148aa71-e09a-48a0-930f-7d81850cd00d",
+      "commands": [
+        {
+          "name": "script_one",
+          "type": "UserScript",
+          "id": "f9567a31-3da9-4d9a-9249-4ba4b90b8eca",
+          "path": "scripts/script_one.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "create_weekly_notes",
+      "id": "71209781-a5bb-43a3-bbbb-29be3c7a0407",
+      "commands": [
+        {
+          "name": "script_two",
+          "type": "UserScript",
+          "id": "3b38a700-3442-4c47-b238-0346277ca726",
+          "path": "scripts/script_two.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "1.6.1",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}
