@@ -43,7 +43,7 @@ This vault is the result of a review of over 900 community plugins. From this se
 - Follow Nicole's [video](https://www.youtube.com/watch?v=OUrOfIqvGS4) for installing Obsidian and opening a vault.
 
 # ✍🏼 Author's Note
-Hi, I'm Francisco Monroy, and this vault is a significant part of my transition from pursuing a Ph.D. In preparation for dropping out (in June 2024), I wanted to create a system that supports the complexity my long-term goals while managing day-to-day tasks.
+Hi, I'm Francisco Monroy, and this vault is a significant part of my transition from pursuing a Ph.D. In preparation for dropping out (in June 2024), I wanted to create a system that supports the complexity of my long-term goals while managing day-to-day tasks.
 
 This project is not just a tool I use personally, but also a means to connect with and support others on similar journeys. I hope this vault provides as much value to you as it has to me.
 
