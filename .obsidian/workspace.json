@@ -16,8 +16,42 @@
             "id": "b01b0a60a24b5888",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "!start_here",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Command Center/!start_here.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":6},\"to\":{\"line\":2,\"ch\":6}},\"scroll\":0.13940594059405942}"
+                },
+                {
+                  "title": "Screenshot 2023-12-31 at 12.35.48 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/Screenshot 2023-12-31 at 12.35.48 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2023-12-31 at 12.35.04 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/Screenshot 2023-12-31 at 12.35.04 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2023-12-31 at 12.34.44 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/Screenshot 2023-12-31 at 12.34.44 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2023-12-31 at 12.33.37 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/Screenshot 2023-12-31 at 12.33.37 AM.png\"}}",
+                  "eState": "{}"
+                },
                 {
                   "title": "Screenshot 2023-12-31 at 2.02.54 AM",
                   "icon": "lucide-image",
@@ -25,8 +59,22 @@
                   "eState": "{}"
                 },
                 {
-                  "state": "{}",
+                  "title": "icon",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/icon.jpg\"}}",
                   "eState": "{}"
+                },
+                {
+                  "title": "!start_here",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Command Center/!start_here.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":9},\"to\":{\"line\":4,\"ch\":9}},\"scroll\":0.6780198019801981}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":38},\"to\":{\"line\":22,\"ch\":38}},\"scroll\":19.81094026726775}"
                 },
                 {
                   "title": "Screenshot 2023-12-31 at 2.02.54 AM",
@@ -348,19 +396,20 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "images/Screenshot 2023-12-31 at 2.02.54 AM.png",
-    "README.md",
-    "images/Screenshot 2023-12-31 at 12.33.37 AM.png",
-    "start_here/!start_here.md",
-    "images/Screenshot 2023-12-31 at 12.34.44 AM.png",
-    "images/title.png",
-    "Untitled",
-    "images/icon.jpg",
+    "images/Screenshot 2023-12-31 at 2.11.53 AM.png",
+    "Command Center/!start_here.md",
     "images/Screenshot 2023-12-31 at 12.35.48 AM.png",
     "images/Screenshot 2023-12-31 at 12.35.04 AM.png",
+    "images/Screenshot 2023-12-31 at 12.34.44 AM.png",
+    "images/Screenshot 2023-12-31 at 12.33.37 AM.png",
+    "images/Screenshot 2023-12-31 at 2.02.54 AM.png",
+    "images/icon.jpg",
+    "README.md",
+    "start_here/!start_here.md",
+    "images/title.png",
+    "Untitled",
     "images",
     "Planner/2024/2024-01/W01/2024-01-01.md",
-    "Command Center/!start_here.md",
     "start_here/images/Screenshot 2023-12-30 at 11.35.36 PM.png",
     "start_here/images/Screenshot 2023-12-30 at 11.35.25 PM.png",
     "start_here/images/Screenshot 2023-12-30 at 11.32.44 PM.png",

@@ -5,12 +5,32 @@
       "path": "README.md"
     },
     {
-      "basename": "Screenshot 2023-12-31 at 2.02.54 AM",
-      "path": "images/Screenshot 2023-12-31 at 2.02.54 AM.png"
+      "basename": "!start_here",
+      "path": "Command Center/!start_here.md"
+    },
+    {
+      "basename": "Screenshot 2023-12-31 at 12.35.48 AM",
+      "path": "images/Screenshot 2023-12-31 at 12.35.48 AM.png"
+    },
+    {
+      "basename": "Screenshot 2023-12-31 at 12.35.04 AM",
+      "path": "images/Screenshot 2023-12-31 at 12.35.04 AM.png"
+    },
+    {
+      "basename": "Screenshot 2023-12-31 at 12.34.44 AM",
+      "path": "images/Screenshot 2023-12-31 at 12.34.44 AM.png"
     },
     {
       "basename": "Screenshot 2023-12-31 at 12.33.37 AM",
       "path": "images/Screenshot 2023-12-31 at 12.33.37 AM.png"
+    },
+    {
+      "basename": "Screenshot 2023-12-31 at 2.02.54 AM",
+      "path": "images/Screenshot 2023-12-31 at 2.02.54 AM.png"
+    },
+    {
+      "basename": "icon",
+      "path": "images/icon.jpg"
     },
     {
       "basename": "!start_here",
@@ -19,10 +39,6 @@
     {
       "basename": "2024-01-01",
       "path": "Planner/2024/2024-01/W01/2024-01-01.md"
-    },
-    {
-      "basename": "!start_here",
-      "path": "Command Center/!start_here.md"
     },
     {
       "basename": "!start_here",
@@ -183,18 +199,6 @@
     {
       "basename": "Sort & Permute Lines",
       "path": "start_here/Community Plugins/Sort & Permute Lines.md"
-    },
-    {
-      "basename": "Text Format",
-      "path": "start_here/Community Plugins/Text Format.md"
-    },
-    {
-      "basename": "Settings Search",
-      "path": "start_here/Community Plugins/Settings Search.md"
-    },
-    {
-      "basename": "Recent Files",
-      "path": "start_here/Community Plugins/Recent Files.md"
     }
   ],
   "omittedPaths": [

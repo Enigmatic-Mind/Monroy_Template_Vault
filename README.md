@@ -20,7 +20,7 @@ This vault is the result of a review of over 900 community plugins. From this se
 - **Plugin Curation:** A handpicked selection of highly effective plugins to enhance the Obsidian experience, complete with detailed insights and practical usage tips.
 <img src="./images/Screenshot 2023-12-31 at 12.33.37 AM.png"/>
 
-## Functionally Simple Template
+## Functionally Simple and Adjustable Template
 - **Efficiency and Utility:** A design that emphasizes functionality, steering clear of unnecessary complexities for a streamlined experience.
 - **Minimalist Aesthetic:** A clean and uncluttered interface that facilitates a focused and productive working environment.
 <p align="center">
@@ -30,8 +30,10 @@ This vault is the result of a review of over 900 community plugins. From this se
 ## GTD Integration
 - **Seamless GTD Adoption:** Integrate GTD principles effortlessly into your daily workflow for better task and project management.
 - **Structured Organization:** A well-organized system for managing tasks, projects, and notes, aligning with GTD methodology.
+<img src="./images/Screenshot 2023-12-31 at 2.11.53 AM.png"/>
 <img src="./images/Screenshot 2023-12-31 at 12.34.44 AM.png"/>
 <img src="./images/Screenshot 2023-12-31 at 12.35.04 AM.png"/>
+
 
 ## Usage
 - **Practical Examples:** Ready-to-use templates and examples for managing daily tasks effectively.
