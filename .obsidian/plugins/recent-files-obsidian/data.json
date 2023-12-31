@@ -5,16 +5,16 @@
       "path": "README.md"
     },
     {
+      "basename": "!start_here",
+      "path": "start_here/!start_here.md"
+    },
+    {
       "basename": "2024-01-01",
       "path": "Planner/2024/2024-01/W01/2024-01-01.md"
     },
     {
       "basename": "!start_here",
       "path": "Command Center/!start_here.md"
-    },
-    {
-      "basename": "!start_here",
-      "path": "start_here/!start_here.md"
     },
     {
       "basename": "!start_here",

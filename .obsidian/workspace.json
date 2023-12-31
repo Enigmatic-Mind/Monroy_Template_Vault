@@ -16,17 +16,23 @@
             "id": "b01b0a60a24b5888",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "title",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/title.png\"}}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "!start_here",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"start_here/!start_here.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":432},\"to\":{\"line\":24,\"ch\":66}},\"scroll\":22.376245360421958}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":148},\"to\":{\"line\":31,\"ch\":148}},\"scroll\":33.28023734959618}"
                 },
                 {
                   "title": "2024-01-01",
@@ -318,8 +324,9 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "images/Screenshot 2023-12-31 at 12.34.44 AM.png",
+    "start_here/!start_here.md",
     "README.md",
+    "images/Screenshot 2023-12-31 at 12.34.44 AM.png",
     "images/title.png",
     "Untitled",
     "images/icon.jpg",
@@ -329,7 +336,6 @@
     "images",
     "Planner/2024/2024-01/W01/2024-01-01.md",
     "Command Center/!start_here.md",
-    "start_here/!start_here.md",
     "start_here/images/Screenshot 2023-12-30 at 11.35.36 PM.png",
     "start_here/images/Screenshot 2023-12-30 at 11.35.25 PM.png",
     "start_here/images/Screenshot 2023-12-30 at 11.32.44 PM.png",
