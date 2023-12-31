@@ -5,8 +5,12 @@
       "path": "README.md"
     },
     {
-      "basename": "!start_here",
-      "path": "Command Center/!start_here.md"
+      "basename": "Screenshot 2023-12-31 at 2.11.53 AM",
+      "path": "images/Screenshot 2023-12-31 at 2.11.53 AM.png"
+    },
+    {
+      "basename": "Screenshot 2023-12-31 at 12.34.44 AM",
+      "path": "images/Screenshot 2023-12-31 at 12.34.44 AM.png"
     },
     {
       "basename": "Screenshot 2023-12-31 at 12.35.48 AM",
@@ -17,20 +21,16 @@
       "path": "images/Screenshot 2023-12-31 at 12.35.04 AM.png"
     },
     {
-      "basename": "Screenshot 2023-12-31 at 12.34.44 AM",
-      "path": "images/Screenshot 2023-12-31 at 12.34.44 AM.png"
-    },
-    {
-      "basename": "Screenshot 2023-12-31 at 12.33.37 AM",
-      "path": "images/Screenshot 2023-12-31 at 12.33.37 AM.png"
-    },
-    {
       "basename": "Screenshot 2023-12-31 at 2.02.54 AM",
       "path": "images/Screenshot 2023-12-31 at 2.02.54 AM.png"
     },
     {
-      "basename": "icon",
-      "path": "images/icon.jpg"
+      "basename": "!start_here",
+      "path": "Command Center/!start_here.md"
+    },
+    {
+      "basename": "Screenshot 2023-12-31 at 12.33.37 AM",
+      "path": "images/Screenshot 2023-12-31 at 12.33.37 AM.png"
     },
     {
       "basename": "!start_here",
@@ -195,10 +195,6 @@
     {
       "basename": "Calendar",
       "path": "start_here/Community Plugins/Calendar.md"
-    },
-    {
-      "basename": "Sort & Permute Lines",
-      "path": "start_here/Community Plugins/Sort & Permute Lines.md"
     }
   ],
   "omittedPaths": [

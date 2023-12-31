@@ -23,6 +23,54 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Screenshot 2023-12-31 at 2.11.53 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/Screenshot 2023-12-31 at 2.11.53 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2023-12-31 at 12.34.44 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/Screenshot 2023-12-31 at 12.34.44 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2023-12-31 at 12.35.48 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/Screenshot 2023-12-31 at 12.35.48 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2023-12-31 at 12.35.04 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/Screenshot 2023-12-31 at 12.35.04 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2023-12-31 at 12.34.44 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/Screenshot 2023-12-31 at 12.34.44 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2023-12-31 at 2.11.53 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/Screenshot 2023-12-31 at 2.11.53 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2023-12-31 at 2.02.54 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/Screenshot 2023-12-31 at 2.02.54 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":0},\"to\":{\"line\":36,\"ch\":0}},\"scroll\":16.076706827309238}"
+                },
+                {
                   "title": "!start_here",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Command Center/!start_here.md\",\"mode\":\"source\",\"source\":false}}",
@@ -397,14 +445,15 @@
   },
   "lastOpenFiles": [
     "images/Screenshot 2023-12-31 at 2.11.53 AM.png",
-    "Command Center/!start_here.md",
+    "images/icon_gray.jpg",
+    "images/icon.jpg",
+    "images/Screenshot 2023-12-31 at 12.34.44 AM.png",
     "images/Screenshot 2023-12-31 at 12.35.48 AM.png",
     "images/Screenshot 2023-12-31 at 12.35.04 AM.png",
-    "images/Screenshot 2023-12-31 at 12.34.44 AM.png",
-    "images/Screenshot 2023-12-31 at 12.33.37 AM.png",
     "images/Screenshot 2023-12-31 at 2.02.54 AM.png",
-    "images/icon.jpg",
     "README.md",
+    "Command Center/!start_here.md",
+    "images/Screenshot 2023-12-31 at 12.33.37 AM.png",
     "start_here/!start_here.md",
     "images/title.png",
     "Untitled",
@@ -412,7 +461,6 @@
     "Planner/2024/2024-01/W01/2024-01-01.md",
     "start_here/images/Screenshot 2023-12-30 at 11.35.36 PM.png",
     "start_here/images/Screenshot 2023-12-30 at 11.35.25 PM.png",
-    "start_here/images/Screenshot 2023-12-30 at 11.32.44 PM.png",
     "templates/template week.md",
     "Efforts/Intellectual/Radiology Report Generation/Upcoming Project Tasks.md",
     "scripts/!start_here.md",
