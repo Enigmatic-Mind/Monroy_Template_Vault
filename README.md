@@ -1,20 +1,25 @@
 
 <p align="center">
 <img src="./images/title.png"/>
-  <img src="./images/icon.jpg" alt="Monroy Obsidian Vault Icon"  width="100"/>
+<img src="./images/icon.jpg" alt="Monroy Obsidian Vault Icon"  width="100"/>
 </p>
+<br/><br/>
 
+# ❓What is Obsidian?
+[Obsidian](https://obsidian.md/) is a powerful, free note-taking application with a lot of flexibility and customization options. Also, notes are stored locally!
 
-# ⚡What is Obsidian?
+# 📅 What is the Monroy Obsidian Vault?
+Obsidian notes are organized within vaults, which can be thought of as root folders. Each vault can be uniquely customized to suit different workflows and preferences. The Monroy Obsidian Vault is designed with two main objectives: 1) to provide an easy start for those new to Obsidian, and 2) to introduce an effective approach to project management, heavily inspired by the Getting Things Done (GTD) methodology.
 
-
-# ⚡What is the Monroy Obsidian Vault?
-Welcome to my GitHub repository featuring a meticulously crafted Obsidian vault designed to enhance productivity and implement the Getting Things Done (GTD) methodology. This vault is the result of an extensive review of over 900 community plugins, offering a blend of core functionality with an emphasis on minimalistic design.
-
-
-
+This vault is the result of a review of over 900 community plugins. From this search, approximately 40 were selected to ensure a balance of core functionality and a minimalist design. The result is a system that's not only highly functional but also sleek and user-friendly.
 
 # 🔥Features
+### Installation and Setup
+- Detailed instructions on how to install and configure the vault.
+- Guidance on customizing the vault to suit individual needs.
+### Usage
+- Examples and templates for day-to-day task management.
+- Strategies for long-term project planning and personal development.
 ### GTD Integration
 - Seamlessly incorporate GTD principles into your daily workflow.
 - Organized structure for managing tasks, projects, and notes.
@@ -31,13 +36,7 @@ Welcome to my GitHub repository featuring a meticulously crafted Obsidian vault 
 - Step-by-step guides for setting up and using the vault.
 - Best practices and tips for personal and professional productivity.
 
-### Installation and Setup
-- Detailed instructions on how to install and configure the vault.
-- Guidance on customizing the vault to suit individual needs.
 
-### Usage
-- Examples and templates for day-to-day task management.
-- Strategies for long-term project planning and personal development.
 
 
 
