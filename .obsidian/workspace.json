@@ -16,8 +16,14 @@
             "id": "b01b0a60a24b5888",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "title",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/title.png\"}}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -313,6 +319,7 @@
   },
   "lastOpenFiles": [
     "images/title.png",
+    "README.md",
     "Untitled",
     "images/icon.jpg",
     "images/Screenshot 2023-12-31 at 12.35.48 AM.png",
@@ -323,7 +330,6 @@
     "Planner/2024/2024-01/W01/2024-01-01.md",
     "Command Center/!start_here.md",
     "start_here/!start_here.md",
-    "README.md",
     "start_here/images/Screenshot 2023-12-30 at 11.35.36 PM.png",
     "start_here/images/Screenshot 2023-12-30 at 11.35.25 PM.png",
     "start_here/images/Screenshot 2023-12-30 at 11.32.44 PM.png",
@@ -331,7 +337,6 @@
     "Efforts/Intellectual/Radiology Report Generation/Upcoming Project Tasks.md",
     "scripts/!start_here.md",
     "Command Center/images/Screenshot 2023-12-30 at 10.14.43 PM.png",
-    "Command Center/images/Screenshot 2023-12-30 at 10.15.00 PM.png",
     "Planner/2023/2023-12/W52/W52.md",
     "Planner/2023/2023-12/W52/2023-12-31.md",
     "Planner/2023/2023-12/W52/2023-12-30.md",
