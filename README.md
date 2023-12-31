@@ -1,11 +1,6 @@
-# Monroy Obsidian Vault
 
 <p align="center">
-  <img src=./images/icon.jpg  width="150"/>
-</p>
-
-
-<p align="center">
+<img src="./images/title.png"/>
   <img src="./images/icon.jpg" alt="Monroy Obsidian Vault Icon"  width="100"/>
 </p>
 
