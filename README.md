@@ -1,7 +1,7 @@
 # Monroy Obsidian Vault
 
 <p align="center">
-  <img src=./images/icon.jpg />
+  <img src=./images/icon.jpg  width="300"/>
   <br/>
 	Monroy Obsidian Vault
 </p>
@@ -9,7 +9,7 @@
 
 <p align="center">
   <strong>Monroy Obsidian Vault</strong><br/>
-  <img src="./images/icon.jpg" alt="Monroy Obsidian Vault Icon" />
+  <img src="./images/icon.jpg" alt="Monroy Obsidian Vault Icon"  width="500"/>
 </p>
 
 
