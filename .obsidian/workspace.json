@@ -16,11 +16,35 @@
             "id": "b01b0a60a24b5888",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Screenshot 2023-12-31 at 2.02.54 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/Screenshot 2023-12-31 at 2.02.54 AM.png\"}}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2023-12-31 at 2.02.54 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/Screenshot 2023-12-31 at 2.02.54 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2023-12-31 at 12.33.37 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/Screenshot 2023-12-31 at 12.33.37 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":20.074995879347288}"
                 },
                 {
                   "title": "!start_here",
@@ -324,15 +348,16 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "start_here/!start_here.md",
+    "images/Screenshot 2023-12-31 at 2.02.54 AM.png",
     "README.md",
+    "images/Screenshot 2023-12-31 at 12.33.37 AM.png",
+    "start_here/!start_here.md",
     "images/Screenshot 2023-12-31 at 12.34.44 AM.png",
     "images/title.png",
     "Untitled",
     "images/icon.jpg",
     "images/Screenshot 2023-12-31 at 12.35.48 AM.png",
     "images/Screenshot 2023-12-31 at 12.35.04 AM.png",
-    "images/Screenshot 2023-12-31 at 12.33.37 AM.png",
     "images",
     "Planner/2024/2024-01/W01/2024-01-01.md",
     "Command Center/!start_here.md",
@@ -342,7 +367,6 @@
     "templates/template week.md",
     "Efforts/Intellectual/Radiology Report Generation/Upcoming Project Tasks.md",
     "scripts/!start_here.md",
-    "Command Center/images/Screenshot 2023-12-30 at 10.14.43 PM.png",
     "Planner/2023/2023-12/W52/W52.md",
     "Planner/2023/2023-12/W52/2023-12-31.md",
     "Planner/2023/2023-12/W52/2023-12-30.md",
