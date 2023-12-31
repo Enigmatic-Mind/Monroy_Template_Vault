@@ -9,11 +9,11 @@
     },
     "children": [
       {
-        "id": "fb985cebf9565e17",
+        "id": "9e79bc76b1cc417f",
         "type": "tabs",
         "children": [
           {
-            "id": "50d68e192b4bdd47",
+            "id": "b01b0a60a24b5888",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -23,15 +23,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Screenshot 2023-12-29 at 11.10.16 PM",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"start_here/images/Screenshot 2023-12-29 at 11.10.16 PM.png\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "!start_here",
+                  "title": "2024-01-01",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"start_here/!start_here.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Planner/2024/2024-01/W01/2024-01-01.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
@@ -39,13 +33,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "start_here/!start_here.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -95,30 +90,6 @@
             }
           },
           {
-            "id": "8d18fc5b1a32eb79",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "c7109571122edcfa",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -134,12 +105,36 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "8d18fc5b1a32eb79",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#task",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 234.5
   },
   "right": {
     "id": "1a505861b22f276b",
@@ -164,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "start_here/!start_here.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "start_here/!start_here.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "start_here/!start_here.md"
+                "file": "README.md"
               }
             }
           },
@@ -312,11 +307,22 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "50d68e192b4bdd47",
+  "active": "b01b0a60a24b5888",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "Untitled",
+    "images/icon.jpg",
+    "images/Screenshot 2023-12-31 at 12.35.48 AM.png",
+    "images/Screenshot 2023-12-31 at 12.35.04 AM.png",
+    "images/Screenshot 2023-12-31 at 12.34.44 AM.png",
+    "images/Screenshot 2023-12-31 at 12.33.37 AM.png",
+    "images",
+    "Planner/2024/2024-01/W01/2024-01-01.md",
+    "Command Center/!start_here.md",
+    "start_here/!start_here.md",
+    "README.md",
     "start_here/images/Screenshot 2023-12-30 at 11.35.36 PM.png",
     "start_here/images/Screenshot 2023-12-30 at 11.35.25 PM.png",
     "start_here/images/Screenshot 2023-12-30 at 11.32.44 PM.png",
@@ -325,12 +331,6 @@
     "scripts/!start_here.md",
     "Command Center/images/Screenshot 2023-12-30 at 10.14.43 PM.png",
     "Command Center/images/Screenshot 2023-12-30 at 10.15.00 PM.png",
-    "Command Center/images/Screenshot 2023-12-30 at 10.19.22 PM.png",
-    "Command Center/images/Screenshot 2023-12-30 at 10.14.18 PM.png",
-    "Command Center/images/Screenshot 2023-12-30 at 10.19.02 PM.png",
-    "Command Center/images/Screenshot 2023-12-30 at 10.19.10 PM.png",
-    "Command Center/images/Screenshot 2023-12-30 at 10.22.00 PM.png",
-    "Command Center/images/Screenshot 2023-12-30 at 10.15.21 PM.png",
     "Planner/2023/2023-12/W52/W52.md",
     "Planner/2023/2023-12/W52/2023-12-31.md",
     "Planner/2023/2023-12/W52/2023-12-30.md",
@@ -345,7 +345,6 @@
     "start_here/Community Plugins/QuickAdd.md",
     "templates/template day.md",
     "start_here/Hotkeys.md",
-    "Planner/2024/2024-01/W01/2024-01-01.md",
     "Planner/2024/2024-01/W01/W01.md",
     "Untitled.md",
     "Planner/2024/2024-01/W01/2024-01-07.md",
@@ -353,15 +352,11 @@
     "Planner/2024/2024-01/W01/2024-01-05.md",
     "Planner/2024/2024-01/W01/2024-01-04.md",
     "Planner/2024/2024-01/W01/2024-01-03.md",
-    "Planner/2024/2024-01/W01/2024-01-02.md",
     "Planner/2024/2024-01/W01",
     "Planner/2024/2024-01",
     "Planner/2024",
     "Planner",
-    "Efforts/Intellectual/Radiology Report Generation/2_plan_strategy/1 Action Plan.md",
-    "Planner/2023/2023-12/W51/W51.md",
     "Planner/2024/2024-12/W51",
-    "Planner/2024/2024-12",
-    "Planner/2023/2023-12/W51"
+    "Planner/2024/2024-12"
   ]
 }

@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "!start_here",
-      "path": "start_here/!start_here.md"
-    },
-    {
-      "basename": "!start_here",
-      "path": "scripts/!start_here.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "2024-01-01",
@@ -15,6 +11,14 @@
     {
       "basename": "!start_here",
       "path": "Command Center/!start_here.md"
+    },
+    {
+      "basename": "!start_here",
+      "path": "start_here/!start_here.md"
+    },
+    {
+      "basename": "!start_here",
+      "path": "scripts/!start_here.md"
     },
     {
       "basename": "Effort Dashboard",
