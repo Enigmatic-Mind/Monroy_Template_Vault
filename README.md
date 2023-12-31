@@ -1,7 +1,7 @@
 
 <p align="center">
 <img src="./images/title.png"/>
-<img src="./images/icon_gray.jpg" alt="Monroy Obsidian Vault Icon"  width="100"/>
+<img src="./images/icon_gray.jpg" alt="Monroy Obsidian Vault Icon"  width="150"/>
 </p>
 <br/><br/>
 
