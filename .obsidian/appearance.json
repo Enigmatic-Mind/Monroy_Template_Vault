@@ -4,7 +4,7 @@
   "enabledCssSnippets": [
     "theme"
   ],
-  "baseFontSize": 22,
+  "baseFontSize": 14,
   "theme": "obsidian",
   "interfaceFontFamily": "Arial",
   "textFontFamily": "Arial",

@@ -50,7 +50,7 @@
 
 
 # Not used:
-## Explore in Future:
+## Explore in Future: #task 
 - **Packrat** - Manage completed instances of recurring tasks that were created and completed using the Tasks plugin.
 - **Excel to Markdown Table** - Paste Excel data as markdown tables.
 - **Latex Suite** - Enhance typesetting LaTeX.

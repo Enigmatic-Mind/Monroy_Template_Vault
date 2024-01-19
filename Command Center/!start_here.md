@@ -164,7 +164,7 @@ In the current [[template day]], tasks are categorized into three types:
 2. **Recurring Tasks:** These often originate from ongoing efforts. For instance, an effort like [[Learn C]] might include studying for an hour daily. Routine tasks, such as sanitizing a toothbrush or washing bed sheets, are also part of this category.
 3. **Soft Scheduled Tasks:** These tasks can arise on the day itself or be planned during our weekly review.
 
-# Weekly Review
+# Weekly Review #task
 *Stay tuned for more enhancements! This system covers about 90 to 95% of the GTD methodology, allowing you to customize it further to your needs. However, if you're looking for a complete, ready-to-use vault, I plan to offer a refined and thoroughly tested version in February 2024 for just $5. Remember, competing options are much more expensive*:
 - [Obsidian Flight School - Online course](https://www.linkingyourthinking.com/obsidian-flight-school#overview) - $129 (I purchased this, but if you follow the instructions in [[start_here/!start_here|!start_here]], you probably won't need it.)
 - [Ideaverse Pro](https://www.linkingyourthinking.com/ideaverse-pro#pricing) - $250 (I've reviewed the free version, Ideaverse Zero, and found it didn't suit my needs.)
