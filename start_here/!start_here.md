@@ -21,5 +21,4 @@ and then click the *Manage workspace layouts* icon and select *obsidian_start* t
 	![[Screenshot 2023-12-30 at 11.35.36 PM.png|425]]
 
 ### Connect with Me:
-[Francisco Monroy | Twitter, Instagram, TikTok | Linktree](https://linktr.ee/francisco.mnroy)
 [Francisco Monroy - YouTube](www.youtube.com/@Francisco.Monroy) - Join me on my journey! I've recorded over 90% of the process in creating this system while dropping out of my Ph.D. If you're interested in studying along with those videos or understanding my thought process behind this project, be sure to check out my YouTube channel. If you're curious to see whether my journey of dropping out turns into a s^^^show, stay tuned!!

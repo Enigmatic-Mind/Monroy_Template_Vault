@@ -3,8 +3,57 @@
     {
       "type": "group",
       "ctime": 1703921623359,
-      "items": [],
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1705990080292,
+          "items": [],
+          "title": "start_here"
+        },
+        {
+          "type": "group",
+          "ctime": 1705990080292,
+          "items": [],
+          "title": "Command Center"
+        },
+        {
+          "type": "group",
+          "ctime": 1705990080292,
+          "items": [],
+          "title": "Efforts"
+        },
+        {
+          "type": "group",
+          "ctime": 1705990080292,
+          "items": [],
+          "title": "Planner"
+        },
+        {
+          "type": "group",
+          "ctime": 1705990080292,
+          "items": [],
+          "title": "templates"
+        },
+        {
+          "type": "group",
+          "ctime": 1705990080292,
+          "items": [],
+          "title": "scripts"
+        },
+        {
+          "type": "file",
+          "ctime": 1705990080292,
+          "path": "README.md",
+          "subpath": "#^-"
+        }
+      ],
       "title": "sortspec"
+    },
+    {
+      "type": "group",
+      "ctime": 1705990080292,
+      "items": [],
+      "title": "images"
     }
   ]
 }

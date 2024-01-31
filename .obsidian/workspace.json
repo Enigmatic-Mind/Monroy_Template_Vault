@@ -4,47 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "fb985cebf9565e17",
+        "id": "f353ddcaafd0b2c7",
         "type": "tabs",
         "children": [
           {
-            "id": "50d68e192b4bdd47",
+            "id": "f50a0db8c3018a43",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 1,
               "stack": [
                 {
-                  "title": "template week",
+                  "title": "!start_here",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/template week.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"start_here (check if same then delete)/!start_here.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "!why_obsidian",
+                  "title": "Appearance",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"start_here/!why_obsidian.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"start_here (check if same then delete)/Appearance.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "!start_here",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"start_here (check if same then delete)/!start_here.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "!start_here",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"start_here/!start_here.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":20.003911111111112}"
-                },
-                {
-                  "title": "macOS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"computer_productivity/macOS/macOS.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":0}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "!start_here",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"computer_productivity/!start_here.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"start_here (check if same then delete)/!start_here.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "!start_here",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Command Center/!start_here.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -52,12 +58,52 @@
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hotkeys",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"start_here/Hotkeys.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Files & Links",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"start_here/Files & Links.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Core plugins",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"start_here/Core plugins.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.7484963243484072}"
+                },
+                {
+                  "title": "Appearance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"start_here/Appearance.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":20.267914783731438}"
+                },
+                {
+                  "title": "!why_obsidian",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"start_here/!why_obsidian.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":16.51802120141343}"
+                },
+                {
+                  "title": "!start_here",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"start_here/!start_here.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.009010600706714}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "start_here/!start_here.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -154,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 258.5
   },
   "right": {
     "id": "1a505861b22f276b",
@@ -179,6 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "start_here/!start_here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,6 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "start_here/!start_here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +291,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "start_here/!start_here.md"
+              }
             }
           },
           {
@@ -323,8 +373,23 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "50d68e192b4bdd47",
+  "active": "f50a0db8c3018a43",
   "lastOpenFiles": [
+    "start_here (check if same then delete)/!start_here.md",
+    "start_here (check if same then delete)/Hotkeys.md",
+    "start_here (check if same then delete)/Appearance.md",
+    "start_here/!start_here.md",
+    "Command Center/!start_here.md",
+    "README.md",
+    "start_here/Hotkeys.md",
+    "start_here/Files & Links.md",
+    "start_here/Core plugins.md",
+    "start_here/Appearance.md",
+    "start_here/!why_obsidian.md",
+    "images/Screenshot 2023-12-31 at 2.02.54 AM.png",
+    "Command Center/Inbox.md",
+    "computer_productivity/!start_here.md",
+    "computer_productivity/macOS/Alfred 5.md",
     "templates/template effort/6_final_archive/archive/Archive.md",
     "templates/template effort/6_final_archive/final_outputs/Final Outputs.md",
     "templates/template effort/3_research_dev/learning_resources/Learning Resources.md",
@@ -342,23 +407,11 @@
     "templates/template effort/3_research_dev/files_docs",
     "templates/template effort/2_plan_strategy/2 Progress Tracking.md",
     "templates/template effort/2_plan_strategy/1 Action Plan.md",
-    "templates/template effort/2_plan_strategy/0 Timeline & Milestones.md",
-    "templates/template effort/1_charter/2 Budget & Resources.md",
-    "templates/template effort/1_charter/1 Brainstorm.md",
-    "templates/template effort/1_charter/0 Overview.md",
-    "templates/template effort/Upcoming Project Tasks.md",
     "templates/template effort/6_final_archive",
     "templates/template effort/5_comm_collab",
     "templates/template effort/4_review_adjust",
     "templates/template effort/3_research_dev",
     "templates/template effort/2_plan_strategy",
-    "templates/template week.md",
-    "templates/template someday maybe.md",
-    "templates/template day.md",
-    "start_here/Community Plugins/dataview/Examples/Example 2 - Src.md",
-    "start_here/Community Plugins/dataview/Examples/Example 1 - Src.md",
-    "start_here/Community Plugins/dataview/Examples/Example 2 - Dataview.md",
-    "start_here/Community Plugins/dataview/Examples/Example 1 - Dataview.md",
     "start_here/Community Plugins/dataview/images/Screenshot 2023-12-26 at 4.36.22 PM.png",
     "start_here/Community Plugins/dataview/images/Screenshot 2023-12-26 at 5.21.39 PM.png",
     "start_here/Community Plugins/dataview/images/Screenshot 2023-12-26 at 4.36.10 PM.png",
@@ -367,9 +420,6 @@
     "start_here/Community Plugins/images/Screenshot 2023-12-29 at 9.59.40 PM.png",
     "start_here/Community Plugins/images/Screenshot 2023-12-29 at 9.57.48 PM.png",
     "start_here/Community Plugins/images/Screenshot 2023-12-29 at 9.46.39 PM.png",
-    "start_here/Community Plugins/images/Screenshot 2023-12-29 at 9.44.23 PM.png",
-    "start_here/Community Plugins/images/Screenshot 2023-12-29 at 9.40.01 PM.png",
-    "start_here/Community Plugins/dataview/Dataview.md",
-    "start_here/Community Plugins/Text Format.md"
+    "start_here/Community Plugins/images/Screenshot 2023-12-29 at 9.44.23 PM.png"
   ]
 }
